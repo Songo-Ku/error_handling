@@ -1,7 +1,7 @@
 # error_handling
 
 https://docs.python.org/2/library/exceptions.html#exception-hierarchy
-
+```
 BaseException
  +-- SystemExit
  +-- KeyboardInterrupt
@@ -52,6 +52,8 @@ BaseException
 	   +-- ImportWarning
 	   +-- UnicodeWarning
 	   +-- BytesWarning
+	   
+```
      
 https://www.learnpython.dev/03-intermediate-python/40-exceptions/99-exercise/
 https://werkzeug.palletsprojects.com/en/2.0.x/exceptions/
